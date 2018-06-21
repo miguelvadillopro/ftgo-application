@@ -1,0 +1,10 @@
+.gradle
+build/
+*.idea/
+*.iml
+*.log
+*.pid
+out
+target
+.serverless
+*.pid
